@@ -1,0 +1,26 @@
+{
+  "name": "node-oidc-provider-example-koa-typescript",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "dependencies": {
+    "@types/koa": "^2.0.52",
+    "@types/koa-ejs": "^4.2.0",
+    "@types/koa-helmet": "^3.1.2",
+    "@types/koa-mount": "^4.0.0",
+    "@types/koa-router": "^7.0.42",
+    "@types/lodash": "^4.14.147",
+    "@types/nanoid": "^2.1.0",
+    "@types/node": "^12.12.7",
+    "koa": "^2.11.0",
+    "koa-body": "^4.1.1",
+    "koa-ejs": "^4.2.0",
+    "koa-helmet": "^5.2.0",
+    "koa-mount": "^4.0.0",
+    "koa-router": "^7.4.0",
+    "lodash": "^4.17.15",
+    "nanoid": "^2.1.6",
+    "oidc-provider": "ulrikstrid/node-oidc-provider#fix-koa-context",
+    "querystring": "^0.2.0",
+    "typescript": "^3.7.2"
+  }
+}
